@@ -1,5 +1,10 @@
 # 💫 About Me:
-                                    Hello World👋, I'm Sagar, a Full-Stack Web Developer 👨‍💻<br><br>🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Tech Companies <br>🤝 I’m looking for help with Building Web(Frontend and Backend)<br>🌱 I’m currently learning Web Technologies <br>💬 Ask me about Ask me about anything related to MERN stack and related technologies
+                                   <div>Hello World👋, I'm Sagar, a Full-Stack Web Developer 👨‍💻
+                                    <br>🔭 I’m currently working on Web Development
+                                    <br>👯 I’m looking to collaborate on Tech Companies 
+                                    <br>🤝 I’m looking for help with Building Web(Frontend and Backend)<br>
+                                    🌱 I’m currently learning Web Technologies <br>
+                                    💬 Ask me about Ask me about anything related to MERN stack and related technologies</div>
 
 
 ## 🌐 Socials:
