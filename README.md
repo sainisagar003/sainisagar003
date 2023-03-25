@@ -1,8 +1,5 @@
 ### <div align="center">Hello World👋, I'm Sagar, a Full-Stack Web Developer 👨‍💻 </div>  
   
-
-- 🌱 I’m currently learning Data Science and ML  
-- ❓ Ask me about anything related to MERN stack and related technologies  
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Tech Companies 
 - 🤝 I’m looking for help with Building Web(Frontend and Backend)
@@ -20,13 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sainisagar003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainisagar003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sainisagar003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/sainisagar887)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=sainisagar003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
