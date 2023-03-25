@@ -5,7 +5,9 @@
 - 🤝 I’m looking for help with Building Web(Frontend and Backend)
 -  🌱 I’m currently learning Web Technologies  
 -  💬 Ask me about Ask me about anything related to MERN stack and related technologies</div>
-
+-  
+<a><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" width=300px height=300px/>
+</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sagar.f003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_sagar0003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-saini) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sainisagar887) 
